@@ -58,7 +58,9 @@ const SearchBooks = () => {
         description: book.volumeInfo.description,
         image: book.volumeInfo.imageLinks?.thumbnail || '',
         //TODO add pageCount property
+        pageCount: book.volumeInfo.pageCount,
         //TODO add publishedDate property
+        publishedDate: book.volumeInfo.publishedDate
 
       }));
 
