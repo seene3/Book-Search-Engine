@@ -7,5 +7,4 @@ A website used to search for books. When a book is desplayed on the screen it ha
 https://infinite-dawn-46832.herokuapp.com/saved
 
 ## Screenshot
-
-
+![screenshot](/img/screenshot.PNG)
